@@ -1,0 +1,27 @@
+[
+  {
+    "name": "all",
+    "label": "Semua Kajian",
+    "icon": "/icon/ic-all-category.svg"
+  },
+  {
+    "name": "berlangsung",
+    "label": "Berlangsung",
+    "icon": "/icon/ic-live.svg"
+  },
+  {
+    "name": "akan_datang",
+    "label": "Akan Datang",
+    "icon": "/icon/ic-calendar.svg"
+  },
+  {
+    "name": "perkantoran",
+    "label": "Perkantoran",
+    "icon": "/icon/ic-office.svg"
+  },
+  {
+    "name": "online",
+    "label": "Online",
+    "icon": "/icon/ic-mosque.svg"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "all",
+    "label": "Semua Kategori",
+    "icon": "/icon/ic-all-category.svg"
+  },
+  {
+    "name": "kemanusiaan",
+    "label": "Kemanusiaan",
+    "icon": "/icon/ic-kemanusiaan.svg"
+  },
+  {
+    "name": "bbq",
+    "label": "BBQ",
+    "icon": "/icon/ic-mosque.svg"
+  },
+  {
+    "name": "wakaf",
+    "label": "Wakaf",
+    "icon": "/icon/ic-wakaf.svg"
+  },
+  {
+    "name": "sedekah_subuh",
+    "label": "Sedekah Subuh",
+    "icon": "/icon/ic-mosque.svg"
+  },
+  {
+    "name": "bencana_alam",
+    "label": "Bencana Alam",
+    "icon": "/icon/ic-kemanusiaan.svg"
+  }
+]
