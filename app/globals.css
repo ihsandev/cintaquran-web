@@ -3,17 +3,17 @@
 @tailwind utilities;
 
 .slick-dots > li {
-  background-color: #D0D0D0;
-  height: 4px;
-  width: 16px;
-  border-radius: 2px;
+  background-color: #D0D0D0 !important;
+  height: 4px !important;
+  width: 16px !important;
+  border-radius: 2px !important;
 }
 
 .slick-dots .slick-active {
-  background-color: #389ED9;
-  width: 28px;
+  background-color: #389ED9 !important;
+  width: 28px !important;
 }
 
 .slick-dots li button:before {
-  content: none;
+  content: none !important;
 }
