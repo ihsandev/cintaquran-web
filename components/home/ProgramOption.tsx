@@ -9,7 +9,7 @@ import CardOption from "../CardOption";
 
 export default function ProgramOption() {
   return (
-    <div className="mx-auto max-w-screen-lg pt-20">
+    <div className="mx-auto max-w-[1140px] pt-20">
       <div className="mb-6">
         <TitleSection
           title="Program Pilihan"

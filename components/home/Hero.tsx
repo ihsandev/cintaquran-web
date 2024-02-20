@@ -4,7 +4,7 @@ import IconText from "../IconText";
 
 export default function Hero() {
   return (
-    <div className="mx-auto max-w-screen-lg flex items-center gap-12 flex-col md:flex-row">
+    <div className="mx-auto max-w-[1140px] flex items-center gap-12 flex-col md:flex-row">
       <figure className="flex-1 md:px-0 px-2">
         <h1 className="text-3xl md:text-5xl font-bold mb-5">
           Dukung Program Dakwah Syiar Qur’an Project.

@@ -24,7 +24,7 @@ export default function DonationOption() {
     donationsFilter.length % 2 === 1 ? donationsFilter.length % 3 : 3;
 
   return (
-    <div className="mx-auto max-w-screen-lg pb-20">
+    <div className="mx-auto max-w-[1140px] pb-20">
       <TitleSection
         title="Donasi Pilihan"
         description="Pilih dan salurkan donasi melalui program-program kami yang berarti bagi sahabat Cinta quran."

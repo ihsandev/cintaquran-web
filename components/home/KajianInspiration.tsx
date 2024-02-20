@@ -17,7 +17,7 @@ export default function KajianInspiration() {
     ) ?? [];
 
   return (
-    <div className="mx-auto max-w-screen-lg py-20 -mt-32">
+    <div className="mx-auto max-w-[1140px] py-20 -mt-32">
       <div className="text-center">
         <TitleSection
           title="Kajian Inspiratif"

@@ -7,8 +7,8 @@ import { FaFacebook, FaInstagram, FaLinkedin, FaYoutube } from "react-icons/fa";
 
 export default function Footer() {
   return (
-    <footer className="bg-[url('/bg-footer.svg')] bg-no-repeat bg-bottom py-16">
-      <section className="mx-auto max-w-screen-lg flex flex-col gap-y-14">
+    <footer className="bg-[url('/bg-footer.svg')] bg-no-repeat bg-bottom py-16 md:px-0 px-2">
+      <section className="mx-auto max-w-[1140px] flex flex-col gap-y-14">
         <div className="grid md:grid-cols-3 justify-between gap-[51px]">
           <div>
             <Image src="/logo/logo.svg" alt="logo" width={150} height={40} />

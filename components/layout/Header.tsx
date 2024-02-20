@@ -11,7 +11,7 @@ export default function Header() {
   const [showMenu, setShowMenu] = useState(false);
   return (
     <header className="bg-white py-3 sticky top-0 z-10 px-2 md:px-0">
-      <nav className="mx-auto max-w-screen-lg flex items-center justify-between">
+      <nav className="mx-auto max-w-[1140px] flex items-center justify-between">
         <figure>
           <Image src="/logo/logo.svg" alt="logo" width={150} height={40} />
         </figure>
